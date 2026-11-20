@@ -18,9 +18,9 @@ Dans les marchés de la banlieue dakaroise, le ticket journalier des commerçant
 
 - **Site public** : présentation des communes et des marchés, carte des arrondissements, actualités.
 - **Espace vendeur** : connexion simple pensée pour tous les commerçants, paiement du ticket, historique et reçus.
-- **Espaces de pilotage** : un espace propre à chaque rôle , avec des droits réglables.
+- **Espaces de pilotage** : un espace propre à chaque rôle, avec des droits réglables.
 - **Paiement mobile** : Wave et Orange Money.
-- **Application installable** sur téléphone , depuis le avigateur.
+- **Application installable** sur téléphone, depuis le navigateur.
 - **Tableaux de bord et rapports** : recettes par marché et par commune, impayés.
 - **Sécurité** : connexions surveillées, actions tracées, suppressions archivées.
 
