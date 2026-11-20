@@ -1,15 +1,9 @@
 # Marchés Connectés
+Plateforme numérique de gestion et d'encaissement des marchés municipaux
 
-**Plateforme numérique de gestion et d'encaissement des marchés municipaux**
-Département de Pikine, Sénégal · 12 communes · 39 marchés
 
-> Plateforme en ligne. Code source privé. Démonstration complète sur demande.
 
-![Page d'accueil](captures/accueil-ordinateur.png)
-
----
-
-## Le projet
+# Le projet
 
 Dans les marchés de la banlieue dakaroise, le ticket journalier des commerçants se paie encore en espèces, contre un ticket papier. Les recettes sont difficiles à suivre, les tickets ne prouvent rien et les impayés passent inaperçus.
 
@@ -20,17 +14,16 @@ Dans les marchés de la banlieue dakaroise, le ticket journalier des commerçant
 - chaque responsable suit, en temps réel, ce qui le concerne, et seulement cela ;
 - les recettes vont directement à la collectivité.
 
-## Fonctionnalités principales
+# Fonctionnalités principales
 
 - **Site public** : présentation des communes et des marchés, carte des arrondissements, actualités.
 - **Espace vendeur** : connexion simple pensée pour tous les commerçants, paiement du ticket, historique et reçus.
-- **Espaces de pilotage** : un espace propre à chaque rôle (administration, maires, superviseurs de marché, contrôle), avec des droits réglables.
+- **Espaces de pilotage** : un espace propre à chaque rôle , avec des droits réglables.
 - **Paiement mobile** : Wave et Orange Money.
-- **Application installable** sur téléphone et ordinateur, depuis le navigateur.
-- **Tableaux de bord et rapports** : recettes par marché et par commune, impayés, exports.
+- **Application installable** sur téléphone , depuis le avigateur.
+- **Tableaux de bord et rapports** : recettes par marché et par commune, impayés.
 - **Sécurité** : connexions surveillées, actions tracées, suppressions archivées.
 
-![Page des marchés](captures/marches-ordinateur.png)
 
 ## Technologies
 
@@ -42,7 +35,7 @@ Dans les marchés de la banlieue dakaroise, le ticket journalier des commerçant
 | Temps réel | Node.js, Socket.IO |
 | Cartes et graphiques | Leaflet, Recharts |
 | Paiements | Wave, Orange Money |
-| Hébergement | Vercel, Render, MongoDB Atlas |
+| Hébergement | Vercel, Render|
 
 ## Mon rôle
 
